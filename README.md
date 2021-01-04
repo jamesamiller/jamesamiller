@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 [<code>
 <img alt="markdown" width="36px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </code>](https://www.markdownguide.org/)
+<img alt="markdown" width="36px" src="https://img.icons8.com/ios-filled/100/000000/matlab.png">
+</code>](https://www.mathworks.com/products/matlab.html)
 
 
 
-
-
-<a href="https://icons8.com/icon/r5Y16PcDkoWI/matlab">MATLAB icon by Icons8</a>
