@@ -37,16 +37,16 @@ My names is James Miller and I'm currently Professor and Chair of Physics and As
 ![](https://img.shields.io/badge/Both-quantum%20mechanics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Both-solar%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Both-plasma%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+
 ⚡ for > 35 years...
 
 ### Research
 
 ![](https://img.shields.io/badge/Theory-high%20energy%20solar%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Computation-plasma%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-
--
-- computational quantum mechanics
-- K-12 STEM education reform 🚀
+![](https://img.shields.io/badge/Computation-quantum%20mechanics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Education-K-12%20STEM%20reform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+🚀
 
 
 
