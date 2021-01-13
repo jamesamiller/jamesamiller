@@ -1,14 +1,20 @@
 ### Hi there 👋
 
+My names is James Miller and I'm currently Professor and Chair of Physics and Astronomy at [UAH](https://www.uah.edu/science/departments/physics)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning [Julia](https://julialang.org/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 
-## Languages and Tools
+
+### 📫 Where to find me
+- [LinkedIn](https://www.linkedin.com/in/4millerja/) 👨💼
+- [Website: Work](https://www.uah.edu/science/departments/physics/faculty-staff/dr-james-a-miller) 😏🔗
+- Blog: Coming Soon 🤓💻
+
+### Languages and Tools
 
 ![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -20,7 +26,7 @@
 ![](https://img.shields.io/badge/Environment-Pluto-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Environment-Jupyter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## Teaching
+### Teaching
 
 ![](https://img.shields.io/badge/Undergrad-relativity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Undergrad-current%20research-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
@@ -33,12 +39,15 @@
 ![](https://img.shields.io/badge/Both-plasma%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 ⚡ for > 35 years...
 
-## Research
+### Research
 
-- high energy solar physics
-- plasma physics (simulation)
+![](https://img.shields.io/badge/Theory-high%20energy%20solar%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Computation-plasma%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+
+-
 - computational quantum mechanics
-- K-12 STEM education reform
+- K-12 STEM education reform 🚀
+
 
 
 
