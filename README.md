@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My names is James Miller and I'm currently Professor and Chair of Physics and Astronomy at [UAH](https://www.uah.edu/science/departments/physics)
+My names is James Miller and I'm currently Professor and Chair of Physics and Astronomy, and Director of the Institute for Science Education, at [UAH](https://www.uah.edu/science/departments/physics)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning [Julia](https://julialang.org/)
