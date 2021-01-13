@@ -11,7 +11,7 @@ My names is James Miller and I'm currently Professor and Chair of Physics and As
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/4millerja/) 👨💼
-- [Website: Work](https://www.uah.edu/science/departments/physics/faculty-staff/dr-james-a-miller) 😏🔗
+- Website: Coming Soon 😏🔗
 - Blog: Coming Soon 🤓💻
 
 ### Languages and Tools
@@ -26,25 +26,16 @@ My names is James Miller and I'm currently Professor and Chair of Physics and As
 ![](https://img.shields.io/badge/Environment-Pluto-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Environment-Jupyter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-### Teaching
+### Academic
 
-![](https://img.shields.io/badge/Undergrad-relativity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Undergrad-current%20research-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Undergrad-freshman%20experience-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Undergrad-general%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Undergrad-electrodynamics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Graduate-MS%20and%20PhD%20supervision-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Both-quantum%20mechanics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Both-solar%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Both-plasma%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-
+![](https://img.shields.io/badge/Teaching-Graduate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Teaching-Undergraduate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Teaching-MS%20and%20PhD%20supervision-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 ⚡ for > 35 years...
 
-### Research
-
-![](https://img.shields.io/badge/Theory-high%20energy%20solar%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Computation-plasma%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Computation-quantum%20mechanics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Theory-High%20Energy%20Solar%20Physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Computation-Plasma%20Physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Computation-Quantum%20Mechanics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Education-K-12%20STEM%20reform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 🚀
 
