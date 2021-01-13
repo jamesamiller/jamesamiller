@@ -10,6 +10,8 @@
 
 ## Languages
 
+![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 - Fortran (expert)
 - Mathematica (expert)
 - Matlab (competent)
