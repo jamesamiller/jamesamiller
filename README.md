@@ -24,7 +24,7 @@
 
 ![](https://img.shields.io/badge/Undergrad-relativity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 
-![](https://img.shields.io/badge/Undergrad-quantum\ mechanics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Undergrad-"quantum mechanics"-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 
 - general physics w/ and w/o calculus
 - quantum mechanics
