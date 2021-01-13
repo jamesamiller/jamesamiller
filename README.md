@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-## Languages
+## Languages and Tools
 
 ![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -21,6 +21,8 @@
 ![](https://img.shields.io/badge/Environment-Jupyter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Teaching
+
+![](https://img.shields.io/badge/Undergrad-relativity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 
 - general physics w/ and w/o calculus
 - quantum mechanics
