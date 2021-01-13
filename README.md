@@ -11,11 +11,12 @@
 ## Languages
 
 ![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-- Fortran (expert)
-- Mathematica (expert)
-- Matlab (competent)
-- Julia (learning)
+![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Teaching
 
