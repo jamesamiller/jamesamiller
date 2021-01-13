@@ -2,19 +2,34 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [Julia](https://julialang.org/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
 
 ## Languages
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+
+- Fortran (expert)
+- Mathematica (expert)
+- Matlab (competent)
+- Julia (learning)
+
+## Teaching
+
+- general physics w/ and w/o calculus
+- quantum mechanics
+- relativity
+- electrodynamics
+- MS and PhD supervision
+- ⚡ for > 35 years at all levels
+
+## Research
+
+- high energy solar physics
+- plasma physics (simulation)
+- computational quantum mechanics
+- K-12 STEM education reform
+
 
 
