@@ -23,15 +23,11 @@
 ## Teaching
 
 ![](https://img.shields.io/badge/Undergrad-relativity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-
-![](https://img.shields.io/badge/Undergrad-quantum%20mechanics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
-
-- general physics w/ and w/o calculus
-- quantum mechanics
-- relativity
-- electrodynamics
-- MS and PhD supervision
-- ⚡ for > 35 years at all levels
+![](https://img.shields.io/badge/Undergrad-general%20physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Undergrad-electrodynamics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Graduate-MS%20and%20PhD%20supervision-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Both-quantum%20mechanics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+⚡ for > 35 years...
 
 ## Research
 
