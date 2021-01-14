@@ -23,6 +23,7 @@ My names is James Miller and I'm currently Professor and Chair of Physics and As
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Environment-VScode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Environment-Pluto-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Environment-Jupyter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
@@ -31,7 +32,9 @@ My names is James Miller and I'm currently Professor and Chair of Physics and As
 ![](https://img.shields.io/badge/Teaching-Graduate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Teaching-Undergraduate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Teaching-MS%20and%20PhD%20supervision-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)
+
 ⚡ for > 35 years...
+
 
 ![](https://img.shields.io/badge/Theory-High%20Energy%20Solar%20Physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Computation-Plasma%20Physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
