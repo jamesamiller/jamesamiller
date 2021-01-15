@@ -30,6 +30,7 @@ My names is James Miller and I'm currently Professor and Chair of Physics and As
 ### Academic
 
 ![](https://img.shields.io/badge/Teaching-Graduate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)🌌
+
 ![](https://img.shields.io/badge/Teaching-Undergraduate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)🔭
 ![](https://img.shields.io/badge/Teaching-MS%20and%20PhD%20supervision-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)🌟
 ⚡ for > 35 years...
