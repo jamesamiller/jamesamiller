@@ -1,9 +1,9 @@
 ### Welcome 👋
 
-My names is James Miller and I'm currently Professor and Chair of Physics and Astronomy, and Director of the Institute for Science Education, at [UAH](https://www.uah.edu/science/departments/physics).
+My names is James Miller and I'm currently [Professor and Chair of Physics and Astronomy, and Director of the Institute for Science Education](https://www.uah.edu/science/departments/physics/faculty-staff), at [UAH](https://www.uah.edu/science/departments/physics).
 
-- 🔭 I’m currently working on special relativity and graduate quantum mechanics texts, epidemiological simulations, converting simulations in fortran to Julia
-- 🌱 I’m currently learning [Julia](https://julialang.org/)
+- 🔭 I’m currently working on special relativity and graduate quantum mechanics texts, epidemiological simulations, converting simulations in fortran to Julia, computational plasma physics simulations, and solar physics
+- 🌱 I’m currently learning [Julia](https://julialang.org/)... as a fortran coder for 40 years
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -29,10 +29,13 @@ My names is James Miller and I'm currently Professor and Chair of Physics and As
 
 ### Research/Expertise
 
-- Theoretical astrophysics
+- Theoretical astrophysics/solar physics
 - Computational physics
 - Plasma physics
 - Quantum mechanics
+- Relativity
 - Anything else interesting at the time that I can tackle
 
+### Sort of Academic Hobbies
 
+- Amateur astronomy, astrophotgraphy... enough to be dangerous, as they say
