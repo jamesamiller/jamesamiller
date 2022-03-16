@@ -16,29 +16,13 @@ My names is James Miller and I'm currently Professor and Chair of Physics and As
 
 ### Languages and Tools
 
-![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Environment-VScode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Environment-Pluto-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Environment-Jupyter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+- Fortran
+- Julia
+- Mathematica
 
 ### Academic
 
-![](https://img.shields.io/badge/Teaching-Graduate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)🌌
-![](https://img.shields.io/badge/Teaching-Undergraduate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)🔭
-![](https://img.shields.io/badge/Teaching-MS%20and%20PhD%20supervision-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=informational)🌟
-⚡ for > 35 years...
-
-![](https://img.shields.io/badge/Theory-High%20Energy%20Solar%20Physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)🌞
-![](https://img.shields.io/badge/Computation-Plasma%20Physics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)💻
-![](https://img.shields.io/badge/Computation-Quantum%20Mechanics-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Education-K-12%20STEM%20reform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)🚀
-
-
-
-
+- Teaching a wide range of graduate and undergraduate physics and physical science courses
+- Research university and community college experience for more than 30 years
+- STEM content knowlege instruction for K-12 educators
+- K-12 inquiry based / hands on learning pedagogy
