@@ -26,3 +26,13 @@ My names is James Miller and I'm currently Professor and Chair of Physics and As
 - Research university and community college experience for more than 30 years
 - STEM content knowlege instruction for K-12 educators
 - K-12 inquiry based / hands on learning pedagogy
+
+### Research/Expertise
+
+- Theoretical astrophysics
+- Computational physics
+- Plasma physics
+- Quantum mechanics
+- Anything else interesting at the time that I can tackle
+
+
